@@ -1,5 +1,4 @@
-Problem Statement
-
+Problem Statement:
 BigMart has collected 2013 sales data for 1559 products across 10 stores in different cities. Certain attributes of each product and store have been defined in the dataset. The goal is to build a predictive model and find out the properties of products and stores which impact the sales. Using the model, BigMart will try to make necessary changes in order to increase their sales.
 Executive Summary
 The purpose of this report is to suggest changes and explain the outcomes of our model to the decision makers of BigMart, so that they can get necessary insights about the factors that are mainly influencing the sales of their products. In order to predict the volume of sales, we had to determine the importance and impact of the characteristics of the products presented in the database: the item identifier, its type, weight, fat content, visibility in the store and its Maximum retail price (MRP). However, the products alone don’t explain the sales, we had to also take into consideration the contribution of the type of each outlet, its location, size and number of running years. 
